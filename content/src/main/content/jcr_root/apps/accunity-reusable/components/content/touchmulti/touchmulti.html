@@ -1,0 +1,14 @@
+
+<div data-sly-use.mbeanObj="com.accunity.reusable.model.FooterListings">
+
+
+		<div data-sly-test="${!mbeanObj.footerListingsModelList}">Add values in Dialog</div>
+    	<div data-sly-test="${mbeanObj.footerListingsModelList}" data-sly-list.itemsList="${mbeanObj.footerListingsModelList}">
+		<div>
+
+            <li class="footer"><a href = "${itemsList.path}".html> ${itemsList.page}</a></li>
+</div>
+      	</div>
+
+
+</div>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/accunity-reusable"/>
+    <filter root="/content/accunity-reusable"/>
+    <filter root="/etc/designs/accunity-reusable"/>
+</workspaceFilter>
