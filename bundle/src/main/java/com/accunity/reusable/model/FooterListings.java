@@ -15,7 +15,7 @@ public class FooterListings extends WCMUse {
     public List<FooterListingsModel> getFooterListingsModelList() {
         return footerListingsModelList;
     }
-
+    int i = 0;
 
 
 
